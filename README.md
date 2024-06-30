@@ -3,7 +3,7 @@
 안녕하세요, 여러분!  🌟
 초보자도 쉽게 배울 수 있도록 SQL 수업 내용을 정리하였습니다.
 
-<img src="https://github.com/son-jy/sqlnote/blob/main/images.png" width="600" height="400">
+<img src="https://github.com/son-jy/sqlnote/blob/main/images.png" width="500" height="300">
 
 &nbsp;
 
