@@ -10,7 +10,7 @@
 ## 수업 자료( ☀️ 2024년 5월 9일 updated)
 
 
-### PART 1「입문」 SQL 첫발 내딛기
+### 📗 PART 1「입문」 SQL 첫발 내딛기
 - **예제1. 테이블에서 특정 열 선택하기**:  📄[노트](https://www.notion.so/1-90bb06e05c2949ff833a68c2d3806d28)
 
 - **예제2. 테이블에서 모든 열(column) 출력하기**:  📄[노트](https://www.notion.so/2-column-9c65a11af5094ee88abe4d525a62dad5?pvs=21)
@@ -44,7 +44,7 @@
 
 
 
-### PART 2「초급」 SQL 기초 다지기
+### 📗 PART 2「초급」 SQL 기초 다지기
 - **예제16. 대소문자 변환 함수 배우기(UPPER, LOWER, INITCAP)**:  📄[노트](https://www.notion.so/16-UPPER-LOWER-INITCAP-44a3ac9de1d94bf3ae982c9bf5735fa3?pvs=21)
 
 - **예제17. 문자에서 특정 철자 추출하기(SUBSTR)**:  📄[노트](https://www.notion.so/17-SUBSTR-e011db4fe39540909b57997cf7be3e08?pvs=21)
@@ -130,7 +130,7 @@
 
 
 
-### PART 3「중급」 SQL 실력 다지기
+### 📗 PART 3「중급」 SQL 실력 다지기
 - **예제56. 출력되는 행 제한하기 1(ROWNUM)**:  📄[노트](https://www.notion.so/56-1-ROWNUM-b120c3c0ad3c42cfafb1b40a6dc0e850?pvs=21)
 
 - **예제57. 출력되는 행 제한하기 2(Simple TOP-n Queries)**:  📄[노트](https://www.notion.so/57-2-Simple-TOP-n-Queries-ac27fa3e87c34929ae21ea8056e40747?pvs=21)
