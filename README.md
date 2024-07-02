@@ -42,6 +42,8 @@
 - **예제15. 논리 연산자 배우기(AND, OR, NOT)**:  📄[노트](https://www.notion.so/15-AND-OR-NOT-1b7288362b4e4a90a0adad0cca098ab7?pvs=21)
 
 
+
+
 ### PART 2「초급」 SQL 기초 다지기
 - **예제16. 대소문자 변환 함수 배우기(UPPER, LOWER, INITCAP)**:  📄[노트](https://www.notion.so/16-UPPER-LOWER-INITCAP-44a3ac9de1d94bf3ae982c9bf5735fa3?pvs=21)
 
@@ -124,6 +126,8 @@
 - **예제54. 데이터 분석 함수로 집계 결과 출력하기 3(GROUPING SETS)**:  📄[노트](https://www.notion.so/54-3-GROUPING-SETS-0ea4d4fb79e2416b92a6dd15aa2056a7?pvs=21)
 
 - **예제55. 데이터 분석 함수로 출력 결과 넘버링 하기(ROW_NUMBER)**:  📄[노트](https://www.notion.so/55-ROW_NUMBER-76333a6437434507b13e31b1df5e5eb3?pvs=21)
+
+
 
 
 ### PART 3「중급」 SQL 실력 다지기
